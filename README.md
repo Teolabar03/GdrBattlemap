@@ -27,7 +27,6 @@ The images used are for placeholder purposes only. The rights belong to the resp
 - Python 3.7+
 - Tkinter (usually included with Python)
 - Pygame (Install dependencies using pip: pip install pygame)
-- It requires to be run with administrator privileges in order to access the C: folder to save the .json.
 
 ### Commands
 
